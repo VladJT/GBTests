@@ -1,4 +1,4 @@
 package jt.projects.gbtests
 
-class C2 {
+class C3 {
 }
